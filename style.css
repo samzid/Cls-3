@@ -1,5 +1,5 @@
 #header{
-    background: red;
+    background: #fff0e6;
     height: 150px;
 }
 #main{
@@ -7,6 +7,6 @@
     height: 250px;
 }
 #left{
-    background: red;
+    background: #101fff;
     width: 25%;
 }
